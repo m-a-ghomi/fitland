@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "کفش ورزشی مردانه نایک",
+      "price": 3200000,
+      "category": "کفش ورزشی",
+      "image": "/pi/prod/c08fcdce2b079525b9dea0ac910f16d0731a1aa2.png",
+      "isNew": true,
+      "size":["36","41","40","46"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "2",
+      "title": "کفش رانینگ مردانه آدیداس",
+      "price": 2900000,
+      "category": "کفش ورزشی",
+      "image": "/pi/prod/download (1).jpeg",
+      "isNew": true,
+      "size":["44","43","42","41"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "3",
+      "title": "کفش ورزشی زنانه",
+      "price": 2700000,
+      "category": "کفش ورزشی",
+      "image": "/pi/prod/7c489c857c19a9d9167b406f35fdbf826d2b1b8a.png",
+      "isNew": true,
+      "size":["40","36","35","34"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "4",
+      "title": "کفش باشگاهی زنانه",
+      "price": 2500000,
+      "category": "کفش ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d66816791813b553556157673733bb2a20589121_1700491617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": true,
+      "size":["40","34","37","36"],
+      "color":["#C4A97C","#FFB300","black","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "5",
+      "title": "کفش تمرین بدنسازی",
+      "price": 3100000,
+      "category": "کفش ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9a330001d7ffc765ac9f00ed93d85bf988f48f04_1776531677.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": true,
+      "size":["40","36","37","38"],
+      "color":["pink","black","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "6",
+      "title": "تیشرت ورزشی مردانه",
+      "price": 450000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2e7d76b04c1ffcd40915bd62e3ba7bdde3862f3d_1733693269.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 1","XL : 3","xxl : 4"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": true
+    },
+    {
+      "id": "7",
+      "title": "ست لباس ورزشی مردانه",
+      "price": 950000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/192c11cc9ad05fe69d4f479c972fc3a58c4076b5_1768733267.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 1","XL : 3","xxl : 4"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": true
+    },
+    {
+      "id": "8",
+      "title": "هودی ورزشی مردانه",
+      "price": 1200000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/119472987.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 0","XL : 2","xxl : 6"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": true
+    },
+    {
+      "id": "9",
+      "title": "شلوار ورزشی مردانه",
+      "price": 700000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3b98cd7a542c3b7ea0902b3764396073b0338956_1751455398.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 1","XL : 3","xxl : 4"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": true
+    },
+    {
+      "id": "10",
+      "title": "لباس ورزشی زنانه ست کامل",
+      "price": 980000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/62e737a9d8113ea97b0b78437c784bbe291de413_1751259420.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 1","XL : 3","xxl : 4"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "11",
+      "title": "تاپ ورزشی زنانه",
+      "price": 400000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e23464f8c8ff046a3646bea43f9825c9f5738b52_1733827132.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 0","XL : 2","xxl : 2"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "12",
+      "title": "لگ ورزشی زنانه",
+      "price": 650000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/058c0e2898d689b28bf4cf6aff4ed6e2763b53a4_1692433182.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 0","M : 1","XL : 3","xxl : 6"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "13",
+      "title": "کفش رانینگ حرفه‌ای",
+      "price": 3500000,
+      "category": "کفش ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c5506b7997ab1780698fa39141c0a7e89f10f507_1775476349.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["44","43","41","38"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "14",
+      "title": "کفش اسپرت روزمره",
+      "price": 2100000,
+      "category": "کفش ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e6aa7857cf3c5fa28c5c2b2cc79c6cd87129faf8_1707055825.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["44","42","41","40"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "15",
+      "title": "کفش ورزشی سبک",
+      "price": 2300000,
+      "category": "کفش ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ded23a4be209486d8e78547e813830bdb2657aab_1771448620.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["36","38","41","45"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "16",
+      "title": "تیشرت ورزشی زنانه",
+      "price": 420000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/253479c2367331cbbedb93cb224122b7640b9ae7_1764233933.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 5","XL : 3","xxl : 4"],
+      "color":["#C4A97C","#FFB300","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "17",
+      "title": "سویشرت ورزشی زنانه",
+      "price": 1100000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/18b5b61028b6ebf54793015d7f5c3f938079dbd9_1766303174.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 1","XL : 0","xxl : 4"],
+      "color":["#C4A97C","#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "18",
+      "title": "شلوارک ورزشی مردانه",
+      "price": 380000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/59fdc12eb313ea3308b396ab5c2b88d7ce9c7310_1771366474.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 2","M : 1","XL : 3","xxl : 4"],
+      "color":["#FFB300","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "19",
+      "title": "ست ورزشی زنانه یوگا",
+      "price": 870000,
+      "category": "لباس ورزشی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/db46dcf27b36e3313562040308a13a40ca99e767_1620931143.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "isNew": false,
+      "size":["L : 0","M : 1","XL : 3","xxl : 4"],
+      "color":["#C4A97C","#541A47","#FA541C"],
+      "isBestSeller": false
+    },
+    {
+      "id": "20",
+      "title": "کفش باشگاهی حرفه‌ای",
+      "price": 3400000,
+      "category": "کفش ورزشی",
+      "image": "/pi/prod/74c0f6290db6eab4cf009c7370ef255ddeb14a94.jpg",
+      "isNew": true,
+      "size":["40","34","36","41"],
+      "color":["#C4A97C","#FFB300","#541A47"],
+      "isBestSeller": false
+    }
+  ]
+}

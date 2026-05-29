@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url(../public/font/stylesheet.css);
+.homa{
+    font-family: 'A Iranian Sans';
+}
+.bg-img{
+    background-image: url(../public/pi/1cdb039214ef65d97515fa5547dc3d82e2164bea.png);
+    object-fit: contain;
+}
+.rond-p{
+    border-radius: 60px 100px 0px 0px ;
+    
+}
