@@ -60,15 +60,7 @@ const Login =({setuser})=>{
         return(
             <>
                  <div className="flex w-full h-[100vh]">
-                    <div className="w-[50%] h-full flex justify-center items-center bg-[#010A13]">
-                    <img className="w-full h-full relative opacity-[8%]" src="/public/pi/82774be60c539d0ad5584cbb1778488786384a2a.png"/>
-                        <div className="w-[259px] h-[109px] absolute">
-                        <img className=" h-full w-full object-contain" src="/src/img/logo/logo.png" alt="logo"/>
-                        <Link to={`/`}>
-                        <button className="w-full h-[24px] text-[14px] bg-transparent rounded-sm text-white flex justify-center items-center gap-2">برگشت به خانه<img className="w-[21px] h-[21px]" src="/public/shop-svgrepo-com.png"/></button>
-                        </Link>
-                        </div>
-                    </div>
+                   
                     <div className="w-[50%] h-full flex justify-center items-center">
                          <div className="w-[456px] h-[289px] p-[32px] border-[1px] border-[#EDEDED] rounded-[8px] text-center">
                          <h2 className="text-right text-[28px] mb-[32px]">کد تایید را وارد کنید</h2>
@@ -79,6 +71,15 @@ const Login =({setuser})=>{
                          <span>کد برای شما ارسال شد</span>
                          </div>
                         {!masage ? <button className="w-full h-[48px] text-[14px] bg-[#FA541C] rounded-sm text-white flex justify-center items-center gap-2" onClick={finalotp}>ادامه</button> : <Link to={"/"}><button className="w-full h-[48px] text-[14px] bg-[#FA541C] rounded-sm text-white flex justify-center items-center gap-2">ورود به صفحه اصلی</button></Link> }
+                        </div>
+                    </div>
+                     <div className="w-[50%] h-full flex justify-center items-center bg-[#010A13]">
+                    <img className="w-full h-full relative opacity-[7%]" src="/public/pi/667fb484c4f93f1801fa632cbb1564f6661fc254.png"/>
+                        <div className="w-[259px] h-[109px] absolute">
+                        <img className=" h-full w-full object-contain" src="/src/img/logo/logo.png" alt="logo"/>
+                        <Link to={`/`}>
+                        <button className="w-full h-[24px] text-[14px] bg-transparent rounded-sm text-white flex justify-center items-center gap-2">برگشت به خانه<img className="w-[21px] h-[21px]" src="/public/shop-svgrepo-com.png"/></button>
+                        </Link>
                         </div>
                     </div>
             </div>

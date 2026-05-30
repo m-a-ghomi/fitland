@@ -95,8 +95,8 @@ const Layout = (prop)=>{
                          <div className="w-full h-[198px] flex">
                         <div className="w-full h-[198px] flex items-end flex-col text-white gap-6">
                             <h4>اطلاعات تماس</h4>
-                            <h4>نشانی قم</h4>
-                            <h4>شماره تماس:09995085398</h4>
+                            <h4>نشانی : قم</h4>
+                            <h4>شماره تماس : 09927967694</h4>
                             <h4>پست الکترونیک</h4>
                             <h4>mohammadalighomi223@gmail.com</h4>
                         </div>

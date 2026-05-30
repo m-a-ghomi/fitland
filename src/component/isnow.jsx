@@ -54,7 +54,7 @@ function Isnow ({datapro}){
                 </div>
 
                 </div>
-                <button className="w-[32px] h-[32px] p-0.5 h-36 text-center text-[40px]" onClick={()=>{handelleft()}}>></button>
+                <button className="w-[32px] h-[32px] p-0.5 h-36 text-center text-[40px]" onClick={()=>{handelleft()}}>{">"}</button>
                 </div>
                 </div>
         </>
