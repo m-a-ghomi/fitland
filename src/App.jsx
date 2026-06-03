@@ -24,11 +24,11 @@ function App() {
    
     useEffect(()=>{
       try{
-        fetch('http://localhost:3001/products')
+        fetch('/db.json')
                 .then(res => res.json())
-                .then(data => setdatapro(data))
+                .then(data => setdatapro(data.products))
             .finally(()=>{
-    
+                
                     
                   })
       }

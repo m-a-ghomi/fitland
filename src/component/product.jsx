@@ -18,9 +18,14 @@ const Product =(prop)=>{
 
     useEffect(() => {
         setstat(false)
-         fetch(`http://localhost:3001/products/${numprod.id}`)
+         fetch(`/db.json`)
             .then(res => res.json())
-            .then(data => setsprod(data))
+            .then(data => {
+                const product = data.products.find(
+                    (item)=> item.id === numprod.id
+                )
+                setsprod(product);
+                })
             .catch(err=> console.log(err))
         .finally(()=>{
                 setstat(true)
