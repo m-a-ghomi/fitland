@@ -43,7 +43,7 @@ const Layout = (prop)=>{
                             </Link>
                         </div>
                         <div className="w-[274px]">
-                        <div className="w-[100px] h-[60px] float-right"> <img className=" h-full w-full object-contain" src="/src/img/logo/logo.png" alt="logo"/></div>
+                        <div className="w-[100px] h-[60px] float-right"> <img className=" h-full w-full object-contain" src="/logo.png" alt="logo"/></div>
                            
                         </div>
                     </div>

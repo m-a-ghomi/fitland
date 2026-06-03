@@ -1,6 +1,6 @@
 import React from "react"
 import { useState } from "react";
-import { data } from "react-router-dom";
+import { data, Link } from "react-router-dom";
 import Layout from "./layout";
 
 
@@ -15,7 +15,11 @@ const Basket = (prop)=>{
     if(dat.length == 0){
         return(
             <Layout user={prop.user}>
-            <h1 className="text-center h-20">محصولی انتخاب نشده است</h1>
+                <div className="w-[500px] m-auto">
+                    <img src="/cartzero.png" />
+                    <h4 className="text-[18px] text-[#404040] text-center">به نظر می رسد هنوز محصولی به سبد خرید خود اضافه نکردید</h4>
+                    <Link to={'/allproduct'} className="w-[80px] h-[30px] py-1 text-center bg-black rounded-2xl text-white block mx-auto my-5" >ادامه خرید</Link>
+                </div>
             </Layout>
         )
     }

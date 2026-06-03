@@ -25,7 +25,7 @@ const Login =({setuser})=>{
                     <div className="w-[50%] h-full flex justify-center items-center bg-[#010A13]">
                     <img className="w-full h-full relative opacity-[8%]" src="/public/pi/82774be60c539d0ad5584cbb1778488786384a2a.png"/>
                         <div className="w-[259px] h-[109px] absolute">
-                        <img className=" h-full w-full object-contain" src="/src/img/logo/logo.png" alt="logo"/>
+                        <img className=" h-full w-full object-contain" src="/logo.png" alt="logo"/>
                         <Link to={`/`}>
                         <button className="w-full h-[24px] text-[14px] bg-transparent rounded-sm text-white flex justify-center items-center gap-2">برگشت به خانه<img className="w-[21px] h-[21px]" src="/public/shop-svgrepo-com.png"/></button>
                         </Link>
@@ -76,7 +76,7 @@ const Login =({setuser})=>{
                      <div className="w-[50%] h-full flex justify-center items-center bg-[#010A13]">
                     <img className="w-full h-full relative opacity-[7%]" src="/public/pi/667fb484c4f93f1801fa632cbb1564f6661fc254.png"/>
                         <div className="w-[259px] h-[109px] absolute">
-                        <img className=" h-full w-full object-contain" src="/src/img/logo/logo.png" alt="logo"/>
+                        <img className=" h-full w-full object-contain" src="/logo.png" alt="logo"/>
                         <Link to={`/`}>
                         <button className="w-full h-[24px] text-[14px] bg-transparent rounded-sm text-white flex justify-center items-center gap-2">برگشت به خانه<img className="w-[21px] h-[21px]" src="/public/shop-svgrepo-com.png"/></button>
                         </Link>
