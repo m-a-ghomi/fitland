@@ -39,7 +39,7 @@ function App() {
             },[])
   return (
     <>
-     <BrowserRouter>
+     <BrowserRouter basename={import.meta.env.DEV ? "/" : "/fitland"}>
       <Routes>
         <Route path='/' element={<Home datapro={datapro} user={user}/>}/>
         <Route path='/serch' element={<Searchpro datapro={datapro} data={serch} setdata={setserch} user={user}/>}/>
